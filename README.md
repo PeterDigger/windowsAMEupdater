@@ -62,6 +62,6 @@ I hope this helps everyone to reduce their time to install the Windows Update. :
 
 *This script has been intended to help reduce user's time not to expect the full automation  of installation of Windows Update.* ***Please use it at your own risk.***
 
-If there's any feedback do post the issues in . Thank you!
+If there's any feedback/problems do post the issues! Thank you!
 
 Remark: * - subject will be changed
