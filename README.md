@@ -29,7 +29,7 @@ The windowsAMEupdater will create a folder named "winUp" in your C:\ directory.
 #### Tutorial:
 Right click on the *windowsAMEupdater.bat* and click on "Run as Administrator". Then you will be presented with this page. 
 
-![mainmenu.png](src/mainmenu.png)
+![mainmenu.jpg](src/mainmenu.jpg)
 
 User will have to type in their desired number in the command prompt. 
 
