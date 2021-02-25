@@ -17,4 +17,4 @@ Features:
 3. Install update 
 
 
-If there's any feedback do email me at chongherng99@gmail.com[chongherng99@gmail.com]. Thank you!
+If there's any feedback do email me at chongherng99@gmail.com. Thank you!
