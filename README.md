@@ -1,4 +1,4 @@
-# ⚠ This is deprecated (no longer been used)
+# ⚠ This is deprecated
 
 # windowsAMEupdater
 
