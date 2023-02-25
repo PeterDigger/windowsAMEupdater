@@ -1,3 +1,5 @@
+# ⚠ This is deprecated (no longer been used)
+
 # windowsAMEupdater
 
 Congrats to those who have already installed the Windows Ameliorated!
